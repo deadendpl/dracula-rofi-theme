@@ -1,5 +1,5 @@
 # dracula-rofi-theme
-[Rofi](https://github.com/davatorium/rofi) theme based on [this theme](https://github.com/dracula/rofi).
+[Rofi](https://github.com/davatorium/rofi) theme based on [the original](https://github.com/dracula/rofi).
 ![screenshot](rofi_screenshot.png)
 
 # Installing
