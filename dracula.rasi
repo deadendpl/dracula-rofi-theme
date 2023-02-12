@@ -12,8 +12,6 @@
     drac-red: #ff5555;
     drac-yel: #f1fa8c;
 
-    font: "Jura 14";
-
     foreground: @drac-fgd;
     background-color: @drac-bgd;
     active-background: @drac-pnk;
