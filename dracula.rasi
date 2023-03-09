@@ -12,6 +12,8 @@
     drac-red: #ff5555;
     drac-yel: #f1fa8c;
 
+    font: "CodeNewRoman Nerd Font Regular 13";
+
     foreground: @drac-fgd;
     background-color: @drac-bgd;
     active-background: @drac-pnk;
