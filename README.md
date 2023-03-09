@@ -11,6 +11,6 @@
 6. Find and choose dracula and press alt+a to set it as default theme
 
 # Font issue
-This theme uses ![CodeNewRoman Nerd Font][https://www.nerdfonts.com/font-downloads].
+This theme uses (CodeNewRoman Nerd Font)[https://www.nerdfonts.com/font-downloads].
 If you don't have this font installed on your system then theme will break.
 To prevent this or switch fonts go to dracula.rasi and delete font: `"CodeNewRoman Nerd Font Regular 13";` or replace with your chosen font.
