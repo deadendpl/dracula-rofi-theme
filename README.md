@@ -13,4 +13,5 @@
 # Font issue
 This theme uses [CodeNewRoman Nerd Font](https://www.nerdfonts.com/font-downloads).
 If you don't have this font installed on your system then theme will break.
-To prevent this go to dracula.rasi and delete the line: `"CodeNewRoman Nerd Font Regular 13";` or replace default font with your own.
+To prevent this go to dracula.rasi and in line:
+`font: "CodeNewRoman Nerd Font Regular 13";` delete `"CodeNewRoman Nerd Font Regular 13";` or replace default font with your own.
